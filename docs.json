@@ -28,16 +28,16 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "name": "Community",
+          "icon": "discord",
+          "url": "https://discord.gg/Zec49GD6ps"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "name": "Blog",
+          "icon": "newspaper",
+          "url": "https://blog.netisu.com"
         }
-      ]
+    ],
     }
   },
   "logo": {
@@ -47,13 +47,13 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "link here",
         "href": "mailto:hi@mintlify.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "test",
       "href": "https://app.mintlify.com"
     }
   },
