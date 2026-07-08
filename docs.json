@@ -1,6 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "quill",
+  "layout": "topnav",
   "name": "Mintlify Starter Kit",
   "colors": {
     "primary": "#16A34A",
@@ -54,11 +55,6 @@
     "options": [
       "copy",
       "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
       "vscode"
     ]
   },
