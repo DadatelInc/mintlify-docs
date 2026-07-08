@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "quill",
+  "theme": "luma",
   "layout": "topnav",
   "name": "Mintlify Starter Kit",
   "colors": {
